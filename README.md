@@ -64,7 +64,7 @@ Links Uteis:
 
 - [Tkinter](https://docs.python.org/3/library/tkinter.html)
 - [CustomTkinter](https://pypi.org/project/customtkinter/)
-- [Exemplos](https://github.com/pyladiesdf/flappy-tutorial)
+- [Exemplos](https://dev.to/khumbolamulungu/top-11-advanced-tkinter-projects-you-should-try-this-year-115l)
 - [API OpenWeatherMap](https://openweathermap.org/api)
 - [Pytube](https://pytube.io/en/latest/index.html)
 
