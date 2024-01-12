@@ -173,7 +173,7 @@ def clima():
     climaW.geometry("560x360")
 
     def pegar_clima(cidade):
-            api_key = '0634ea20b51063b31966eb3facbd8e50'
+            api_key = 'ADICIONE_SUA_CHAVE_API'
             url = f'https://api.openweathermap.org/data/2.5/weather?q={cidade}&appid={api_key}'
             res = requests.get(url)
 
